@@ -1,3 +1,21 @@
-para fazer o primeiro commit ensinado no segundo video dessa playlist, o novo usuario tem que informar seu nome de usuario e email... O do professor ja estava feito, entao acabou sendo pulado esse passo, o que para alunos mais leigos pode ser uma complicacao. :p
-Alias, logo no primeiro video, tive dificuldade para criar o simples arquivo index.html... meu windows explorer nao estava mostrando as extensoes de arquivo, logo ele nao se transformava em html, ficando um arquivo de texto index.html.txt;
-Ah, lembrei outro detalhe... no Visual Studio do professor, a funcao autosave deve estar habilitada... mas o padrao apos a primeira instalacao eh vir sem ela... logo, no video o professor termina de usar o VisualStudio e vai direto pra janela de comandos mexer no GIT; mas aqui no meu Visual recem instalado, eu so conseguia prosseguir os passos apos salvar as alteracoes manualmente.
+# Desafio Gama Pullrequest
+
+## Faça o FORK deste projeto
+
+### Faça o Clone do projeto em sua conta
+
+### Cria uma BRANCH iniciada em "gama/"
+
+#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+
+##### Faça o commit da sua altetação
+
+#### Execute o comando
+
+`git push --set-upstream <remote> <branch>`
+
+## Abra um PullRequest com suas alterações
+
+O que estou achando do curso ?
+
+Muito complexo! ainda tenho que me acostumar com esse novo mundo de GIT / CSS / bootstrap / javascript ... :p
